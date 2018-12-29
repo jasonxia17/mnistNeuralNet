@@ -1,0 +1,2 @@
+# mnistNeuralNet
+Experimenting with PyTorch
